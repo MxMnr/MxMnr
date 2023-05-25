@@ -3,12 +3,10 @@
 Although my GitHub account hasn't been all that active in the past, I've been designing and coding technology products, software applications, and websites for 12+ years. I recently decided to move beyond the basic HTML/CSS/JS and AppleScript building I was doing and began the journey of learning Python through Replit's 100 Days of Code program.
 
 ## Links 🔗
-- [My Portfolio Website](https://www.mxmnr.com)
+- [Portfolio Website](https://www.mxmnr.com)
 - [Twitter](https://www.twitter.com/mxmnr)
 - [Replit](https://www.replit.com/@mxmnr)
-- [Tezos Artwork (NFTs)](https://objkt.com/profile/mxmnr/created)
-
-
+- [Farcaster](https://fcast.me/mxmnr)
 
 <!--
 **MxMnr/MxMnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
