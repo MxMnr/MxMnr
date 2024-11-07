@@ -1,6 +1,6 @@
 # Welcome 👋
 
-I've been designing and building digital technology products, services, and websites for 12+ years. My background is primarily focused in user experience and product design, but I've been coding since before I knew what 'UX' was. I recently decided to move beyond the basic HTML/CSS/JS and AppleScript building I was doing and began the journey of learning Python through Replit's 100 Days of Code program.
+I've been designing and building digital technology products, services, and websites for 13+ years. My background lies primarily in user experience and product design, but I've been coding since before I knew what 'UX' was. I recently decided to move beyond the basic HTML/CSS/JS and AppleScript building I was doing, and decided to learn Python through Replit's 100 Days of Code program.
 
 ## Links 🔗
 - [Portfolio Website](https://www.mxmnr.com)
