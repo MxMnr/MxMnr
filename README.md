@@ -1,10 +1,15 @@
 # Welcome 👋
 
-I've been designing and building digital technology products, services, and websites for 13+ years. My background lies primarily in user experience and product design, but I've been coding since before I knew what 'UX' was. I recently decided to move beyond the basic HTML/CSS/JS and AppleScript building I was doing, and decided to learn Python through Replit's 100 Days of Code program.
+I'm a product leader, designer, coder, entrepreneur, and artist. 
+
+Currently building [SkillsEngine](https://skillsengine.com).
+
+I've been designing and building digital technology products, services, and websites for 15+ years. My background lies primarily in user experience and product design, but I've been coding since before I knew what 'UX' was. Two years ago I decided to move beyond the basic HTML/CSS/JS and AppleScript building I was doing, and learned Python through [Replit's 100 Days of Code](https://replit.com/learn/100-days-of-python).
 
 ## Links 🔗
 - [Portfolio Website](https://www.mxmnr.com)
 - [Twitter](https://www.twitter.com/mxmnr)
+- [LinkedIn](https://www.linkedin.com/in/mxmnr)
 - [Replit](https://www.replit.com/@mxmnr)
 - [Farcaster](https://fcast.me/mxmnr)
 
