@@ -1,6 +1,6 @@
 # Welcome 👋
 
-I'm a product leader, designer, coder, entrepreneur, and artist. 
+I'm a product and design leader, coder, entrepreneur, and artist. 
 
 ## Links 🔗
 - [Portfolio Website](https://www.mxmnr.com)
