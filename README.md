@@ -2,7 +2,7 @@
 
 I'm a product and design leader, coder, entrepreneur, and artist. 
 
-[Portfolio Website](https://www.mxmnr.com) | [Twitter](https://www.twitter.com/mxmnr) | [LinkedIn](https://www.linkedin.com/in/mxmnr) | [Replit](https://www.replit.com/@mxmnr)
+[Portfolio Website](https://www.mxmnr.com) | [Twitter](https://www.twitter.com/mxmnr) | [LinkedIn](https://www.linkedin.com/in/mxmnr)
 
 <!--
 **MxMnr/MxMnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
